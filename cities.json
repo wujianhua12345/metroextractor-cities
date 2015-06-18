@@ -450,6 +450,14 @@
                         "right": "117.119"
                     }
                 },
+                "nanchang_china": {
+                    "bbox": {
+                        "top": "28.7899",
+                        "left": "115.6737",
+                        "bottom": "28.5140",
+                        "right": "116.0905"
+                    }
+                },
                 "bengaluru_india": {
                     "bbox": {
                         "top": "13.230",
